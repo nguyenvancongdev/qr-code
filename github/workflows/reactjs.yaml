@@ -1,7 +1,7 @@
 name: REACTJS CI CD
 on:
   push:
-    branches: [deloy]
+    branches: [master]
 
 jobs:
   build:
